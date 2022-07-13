@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapneel1026&label=Profile%20views&color=0e75b6&style=flat" alt="swapneel1026" /> </p>
 
-- 🌱 I’m currently learning **NodeJS,Express.MongoDB**
+- 🌱 I’m currently learning **NodeJS , Express , MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swapneel1026](https://github.com/swapneel1026)
 
-- 💬 Ask me about **React-js, Html, Css ,Javascript ,Java**
+- 💬 Ask me about **React-js , Html , Css , Javascript , Java**
 
 - 📫 How to reach me **swapneelshubham44@gmail.com**
 
