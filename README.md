@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/swapneel1026](https://github.com/swapneel1026)
 
-- 💬 Ask me about **React-js , Html , Css , Javascript , Java**
+- 💬 Ask me about **Next-Js,Tailwind-CSS , React-js , Html , Css , Javascript **
 
 - 📫 How to reach me **swapneelshubham44@gmail.com**
 
